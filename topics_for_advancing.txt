@@ -1,0 +1,42 @@
+Unit testing
+Debugging with VSCODE
+I3 (i3wm.org)
+Flake8
+PyCharm
+Code refactoring: https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/
+Build a pipeline
+Trello
+https://mlcourse.ai/
+http://cs231n.stanford.edu/
+https://towardsdatascience.com/ask-me-anything-session-with-a-kaggle-grandmaster-vladimir-i-iglovikov-942ad6a06acd
+BooK: https://is.muni.cz/el/1423/podzim2017/PSY028/um/_Hair_-_Multivariate_data_analysis_7th_revised.pdf
+- Create a directory of youtube channels: https://www.youtube.com/user/BCFoltz/playlists
+
+- url statistics:
+Brandon Foltz: https://www.youtube.com/user/BCFoltz
+ZedStatistics: https://www.youtube.com/user/zedstatistics
+Data Learner:https://www.youtube.com/watch?v=GeG5IIxE794
+Agregar al viejito
+
+pagina: stackexchange
+
+BUILDING A PIPELINE:
+https://machinelearningmastery.com/machine-learning-checklist/
+https://blog.k2datascience.com/essential-checklist-for-any-data-analysis-or-science-project-7c4fa924e563
+
+
+MY NOTEBOOKS WITH NOTES AND RESOURCES IN MY KAGGLE
+
+SIMPLE AND MULTIPLE REGRESSION:
+
+https://www.kaggle.com/malfaroe/multiple-lr-tutorial/edit/run/27820820
+https://www.kaggle.com/malfaroe/first-project-housing
+
+
+
+
+
+Music Production:
+- Mixing and mastering
+- Create a Production Pipeline
+- A7B button to switch between references: https://www.youtube.com/watch?v=WkySLnvyRuc
